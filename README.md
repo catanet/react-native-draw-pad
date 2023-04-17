@@ -1,4 +1,4 @@
-# THIS PACKAGE IS NOT BEING MAINTAINED
+# THIS PACKAGE WILL BE UPDATED SOON
 You should instead use [Fabricjs](https://github.com/fabricjs/fabric.js) along with [react-native-webview](https://github.com/react-native-community/react-native-webview)
 
 # react-native-sketch-view
