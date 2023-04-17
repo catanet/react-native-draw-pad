@@ -1,5 +1,4 @@
 # THIS PACKAGE WILL BE UPDATED SOON
-You should instead use [Fabricjs](https://github.com/fabricjs/fabric.js) along with [react-native-webview](https://github.com/react-native-community/react-native-webview)
 
 # react-native-sketch-view
 A React Native component for touch based drawing supporting iOS and Android. Inspired by the libraries [react-native-sketch](https://github.com/jgrancher/react-native-sketch), [react-native-signature-capture](https://github.com/RepairShopr/react-native-signature-capture).
