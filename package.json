@@ -1,6 +1,6 @@
 {
-  "name": "react-native-sketch-view",
-  "version": "1.0.1",
+  "name": "react-native-draw-pad",
+  "version": "1.1.0",
   "description": "A React Native component for touch based drawing supporting iOS and Android.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/keshavkaul/react-native-sketch-view.git"
+    "url": "git+https://github.com/catanet/react-native-draw-pad.git"
   },
   "keywords": [
     "react",
@@ -20,17 +20,17 @@
     "draw"
   ],
   "author": {
-    "name": "Keshav Kaul",
-    "email": "kaul.keshav@gmail.com",
-    "url": "https://github.com/keshavkaul"
+    "name": "cata",
+    "email": "postmaster@cataweb.org",
+    "url": "https://github.com/catanet"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/keshavkaul/react-native-sketch-view/issues"
+    "url": "https://github.com/catanet/react-native-draw-pad/issues"
   },
-  "homepage": "https://github.com/keshavkaul/react-native-sketch-view#readme",
+  "homepage": "https://github.com/catanet/react-native-draw-pad#readme",
   
   "peerDependencies": {
-    "react-native": ">=0.42.0"
+    "react-native": ">=0.69.0"
   }
 }
