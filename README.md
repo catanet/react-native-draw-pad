@@ -1,5 +1,3 @@
-# THIS PACKAGE WILL BE UPDATED SOON
-
 # react-native-sketch-view
 A React Native component for touch based drawing supporting iOS and Android. Inspired by the libraries [react-native-sketch](https://github.com/jgrancher/react-native-sketch), [react-native-signature-capture](https://github.com/RepairShopr/react-native-signature-capture).
 
